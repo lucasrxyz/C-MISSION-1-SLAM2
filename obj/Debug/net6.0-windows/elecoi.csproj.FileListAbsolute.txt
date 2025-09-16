@@ -1,0 +1,17 @@
+C:\Users\Wallon\source\repos\elecoi\bin\Debug\net6.0-windows\elecoi.exe
+C:\Users\Wallon\source\repos\elecoi\bin\Debug\net6.0-windows\elecoi.deps.json
+C:\Users\Wallon\source\repos\elecoi\bin\Debug\net6.0-windows\elecoi.runtimeconfig.json
+C:\Users\Wallon\source\repos\elecoi\bin\Debug\net6.0-windows\elecoi.dll
+C:\Users\Wallon\source\repos\elecoi\bin\Debug\net6.0-windows\elecoi.pdb
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\elecoi.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\elecoi.Form1.resources
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\elecoi.csproj.GenerateResource.cache
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\elecoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\elecoi.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\elecoi.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\elecoi.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\elecoi.dll
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\refint\elecoi.dll
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\elecoi.pdb
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\elecoi.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\elecoi\obj\Debug\net6.0-windows\ref\elecoi.dll

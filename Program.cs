@@ -12,6 +12,7 @@ namespace elecoi
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+            Console.WriteLine("L'application est bien lancée");
         }
     }
 }
